@@ -1,3 +1,9 @@
 [submodule "personal-finances-python-api"]
 	path = personal-finances-python-api
 	url = git@github.com:jonatasoli/personal-finances-python-api.git
+[submodule "personal-finances-front"]
+	path = personal-finances-front
+	url = git@github.com:jonatasoli/personal-finances-front.git
+[submodule "personal-finances-rust-api"]
+	path = personal-finances-rust-api
+	url = git@github.com:jonatasoli/personal-finances-rust-api.git
